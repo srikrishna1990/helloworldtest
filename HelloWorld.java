@@ -1,3 +1,3 @@
 hello world
 
-i hate my language
+i hate my programming
